@@ -1,5 +1,4 @@
-# Passwort: 1.spionspion
-# Email: spionedasspiel@gmail.com
+
 import smtplib, ssl
 import random
 
